@@ -1,3 +1,5 @@
+![dmitry-demidko-OG3A-ilG8AY-unsplash](https://user-images.githubusercontent.com/52866379/236993955-552551e0-0237-4134-b983-1b52a4fd0986.jpg)
+
 # Introduction:
 
 Hello, and welcome to my Github repository for my CryptoClustering project. In this project, I explore how to cluster cryptocurrencies based on market data using K-Means clustering and principal component analysis (PCA). This project was completed as part of my portfolio for data science and machine learning, and it was an excellent opportunity to hone my skills in data cleaning, preprocessing, and visualization.
