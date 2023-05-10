@@ -1,4 +1,4 @@
-![dmitry-demidko-OG3A-ilG8AY-unsplash](https://user-images.githubusercontent.com/52866379/236993955-552551e0-0237-4134-b983-1b52a4fd0986.jpg)
+![dmitry-demidko-OG3A-ilG8AY-unsplash](https://user-images.githubusercontent.com/52866379/236993955-552551e0-0237-4134-b983-1b52a4fd0986.jpg)1
 
 # Introduction:
 
